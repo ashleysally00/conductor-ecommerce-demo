@@ -1,6 +1,6 @@
 # E-Commerce Order Processing Workflow
 
-[Watch 2-Minute Demo Video](https://www.loom.com/share/your-video-id)
+[Watch 2-Minute Demo](#) <br>
 *Video walkthrough coming soon — showing workflow canvas and execution results*
 
 A production-ready workflow built with Orkes Conductor that automates
