@@ -1,8 +1,10 @@
-# How to Build an E-Commerce Order Processing Workflow in Orkes Conductor
+# E-Commerce Order Processing Workflow
 
-Learn how to build an e-commerce workflow that processes payments, validates transactions, and coordinates fulfillment using Orkes Conductor.
+[Watch 2-Minute Demo Video](https://www.loom.com/share/your-video-id)
+*Video walkthrough coming soon — showing workflow canvas and execution results*
 
-**Time to complete:** 20 minutes
+A production-ready workflow built with Orkes Conductor that automates
+order creation, payment, inventory update, and confirmation.
 
 ---
 
